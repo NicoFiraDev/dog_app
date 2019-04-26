@@ -6,10 +6,6 @@ body {
   position: relative;
 }
 
-h1 {
-  font-style: italic;
-}
-
 p {
   display: inline-block;
 }
