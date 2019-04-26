@@ -1,0 +1,29 @@
+html {
+  width: 100%;
+}
+
+body {
+  position: relative;
+}
+
+h1 {
+  font-style: italic;
+}
+
+p {
+  display: inline-block;
+}
+
+img {
+  display: block;
+  transition: box-shadow .3s;
+}
+
+img:hover {
+  box-shadow: 10px 10px 30px #000;
+}
+
+ul {
+  list-style: none;
+}
+
